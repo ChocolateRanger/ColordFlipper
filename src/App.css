@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.colorName{
+  margin: 25vh 29vh 2vh;
+  height: 100%;
+  width: 58%;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
+
+#btn-change{
+  color: white;
+  background-color: blue;
+  display: flex;
+  margin: 0 0 0 66vh;
+}
